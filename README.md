@@ -4,4 +4,4 @@ Some text
 
 ## Local development 
 
-Open index.ne file
+1. Open index.html in your browser. 
